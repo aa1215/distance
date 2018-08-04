@@ -8,4 +8,4 @@ We’re the SparkNotes of travel, we want people to be able to learn the importa
 
 Our main feature comprises of a interactive map of the world, which shows you different countries you might visit and basic information about those countries in a shortened format. You can then expand this to view more about that country through our other features.
 
-Features such as currency conversion, an interactive packing list, and cultural taboos are just a few that make GlobeNotes great. We have a rapidly growing system and have started with six countries representing all the continents except Antarctica. The product uses credible sources, and presents brief, simplified information for users of all ages. [Check our website out here](https://www.globe-notes.com)
+Features such as currency conversion, an interactive packing list, and cultural taboos are just a few that make GlobeNotes great. We have a rapidly growing system and have started with six countries representing all the continents except Antarctica. The product uses credible sources, and presents brief, simplified information for users of all ages. [Check our website out here!](https://www.globe-notes.com)
