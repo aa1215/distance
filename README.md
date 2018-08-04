@@ -1,2 +1,3 @@
 
-# Team DISTANCE, aka the best team.
+# GlobeNotes
+## My group project for Google CSSI 2018 
